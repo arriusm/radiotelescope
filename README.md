@@ -1,13 +1,14 @@
-usage: radio_spectra.py [-h] [-d DIR] [-m] [-n] [-f] [-o] [-p] [-g] [-T]
-                        [-x XPLOT] [-v VERBOSE]
-                        FILES [FILES ...]
-
 radio_spectra.py by Arno Riffeser V250601
 
-positional arguments:
-  FILES                 files
+usage:
+'''
+radio_spectra.py [-h] [-d DIR] [-m] [-n] [-f] [-o] [-p] [-g] [-T]
+                        [-x XPLOT] [-v VERBOSE]
+                        FILES [FILES ...]
+'''
 
 options:
+'''
   -h, --help            show this help message and exit
   -d DIR, --dir DIR     directory, default is current directory
   -m, --mask            masking
@@ -21,3 +22,4 @@ options:
                         xaxis: r - register, f - frequency, v - velocity
   -v VERBOSE, --verbose VERBOSE
                         verbose level
+'''
