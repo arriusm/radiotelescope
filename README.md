@@ -28,6 +28,13 @@ radio_spectra.py [-h] [-d DIR] [-m] [-n] [-f] [-o] [-p] [-g] [-T]
   -v VERBOSE, --verbose VERBOSE  verbose level
 ```
 
+# radio_simple.py
+by Arno Riffeser V250602
+
+## usage:
+```
+radio_simple.py  FILES
+```
 
 # radio_flat.py
 by Arno Riffeser V250602
