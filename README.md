@@ -29,7 +29,7 @@ radio_spectra.py [-h] [-d DIR] [-m] [-n] [-f] [-o] [-p] [-g] [-T]
 ```
 
 
-#radio_flat.py
+# radio_flat.py
 by Arno Riffeser V250602
 
 ## usage:
